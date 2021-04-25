@@ -13,16 +13,16 @@ Adds:
 Usage:
 
     /datapack enable
-    /trigger lighthead set 
+    /trigger lighthead set [​1-16]
 
 
 -----------------------------------------------------------------------------------
 Tips:
 
-    Use it to show if you have an idea,
-    no idea,
-    very good idea or
-    you´re just pretty and happy
+    Use it to show if you have an idea [​5],
+    no idea [​1],
+    very good idea [​15] or
+    you´re just pretty and happy [​16]
 
 
 -----------------------------------------------------------------------------------
